@@ -5,7 +5,7 @@ Orion - An application for packing items using various algorithms
 View Online Demo
 ----------------
 
-[Demo Link - 1](<http://orion.jbhatt.in/public/client/index.html>)
+[Demo Link - 1](<http://jaybhatt.in/public/client/index.html#!/>)
 
 Installation
 ------------
