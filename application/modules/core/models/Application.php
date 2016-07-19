@@ -213,7 +213,7 @@ class Application
             {
             	$algorithm = $_SESSION['algorithm'];
                 // Check if the id passed actually exists in items array.
-                if(empty($post['algorithm']))
+                if(!empty($post['algorithm']))
                 {
                 	$_SESSION['algorithm'] = $post['algorithm'];
                 	$algorithm = $post['algorithm'];
